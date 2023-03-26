@@ -1,0 +1,10 @@
+CMD for Github bash
+
+1. PWD - to check Present Working Directory 
+2. ls - to check the list present in the PWD
+3. cd Desktop - to enter into the folder ( if Folder name is not in the PWD then need to paste the complete path)
+4. mkdir Github - ( To make a folder (Github is the folder name)
+5. git init - ( Initiliaze the repository) ( After running this CMD in GIT Bash git folder will appear which is hidden, it contains all the information Username, password, email etc)
+6. git branch -m master main (old name of the branch(master) and then new name(main)) - to change the branch
+7. git remote add origin (paste the link you copied from the GITHUB server under the code-https) - it is to add the link
+8. git status - (track the files or activity)
